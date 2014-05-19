@@ -1,0 +1,33 @@
+{
+    "name": "petrgrishin/yii-array-field",
+    "description": "Yii array field behavior",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.1.0",
+        "yiisoft/yii": "*",
+        "petrgrishin/array-access": "~1.0"
+    },
+    "minimum-stability": "dev",
+    "require-dev": {
+        "league/phpunit-coverage-listener": "~1.0"
+    },
+    "authors": [
+        {
+            "name": "Petr Grishin",
+            "email": "petr.grishin@grishini.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PetrGrishin\\ArrayField\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "PetrGrishin\\ArrayField\\": "src/"
+        },
+        "files": [
+            "vendor/yiisoft/yii/framework/YiiBase.php"
+        ]
+    }
+}
