@@ -24,7 +24,7 @@ Model have text attribute `data` for storage array
 ```php
 namespace app\models;
 
-use \СActiveRecord;
+use \CActiveRecord as ActiveRecord;
 use \PetrGrishin\ArrayField\ArrayAccessFieldBehavior;
 
 class Model extends СActiveRecord {
