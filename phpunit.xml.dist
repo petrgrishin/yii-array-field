@@ -29,7 +29,7 @@
                         <string>Util</string>
                     </element>
                     <element key="repo_token">
-                        <string>Kd8kQvGmDiAK35hEq837XxgGLg1z9e7Ez</string>
+                        <string>YmC0vBhGgrHmSOteAPANwqvHAmkzzmUh4</string>
                     </element>
                     <element key="target_url">
                         <string>https://coveralls.io/api/v1/jobs</string>
