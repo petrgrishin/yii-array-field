@@ -27,7 +27,7 @@ namespace app\models;
 use \CActiveRecord as ActiveRecord;
 use \PetrGrishin\ArrayField\ArrayAccessFieldBehavior;
 
-class Model extends СActiveRecord {
+class Model extends ActiveRecord {
     public function behaviors() {
         return array(
             'arrayField' => array(
