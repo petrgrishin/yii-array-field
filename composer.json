@@ -5,7 +5,7 @@
     "require": {
         "php": ">=5.1.0",
         "yiisoft/yii": "*",
-        "petrgrishin/array-access": "~1.0"
+        "petrgrishin/array-access": "~2.0"
     },
     "minimum-stability": "dev",
     "require-dev": {
