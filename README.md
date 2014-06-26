@@ -11,7 +11,7 @@ Add a dependency to your project's composer.json:
 ```json
 {
     "require": {
-        "petrgrishin/yii-array-field": "~1.0"
+        "petrgrishin/yii-array-field": "~2.0"
     }
 }
 ```
